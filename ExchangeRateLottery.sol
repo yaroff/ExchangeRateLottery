@@ -22,7 +22,6 @@
   ** Notes **
  - Oraclize service (oraclize.it) is used as independent and trusted third party to obtain external data
  - Specific compiler version is mentioned as newer versions are not supported by Oracle contract
- - Only limited functions can be tested locally in dev environment (or local oracle should be setup)
  - Contract is tested at Rinkeby and Ropsten networks
 */
 
